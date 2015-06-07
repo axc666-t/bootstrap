@@ -1,0 +1,20 @@
+#tech div {
+	background: #a4a4a4;
+	height: 200px;
+	font: bold 80px/170px Arial, sans-serif;
+	text-align: center;
+	vertical-align: middle;
+}
+
+#tech div:nth-child(1){
+	border: 13px solid #f00;
+	color: #f00;
+}
+#tech div:nth-child(2){
+	border: 13px solid #0f0;
+	color: #0f0;
+}
+#tech div:nth-child(3){
+	border: 13px solid #00f;
+	color: #00f;
+}
